@@ -4,6 +4,8 @@ Migrate all components to Webpack 5. Add additional configurations as necessary.
 ## Migration
 Migrate core features and global components before migrating other components and pages. 
 
+Update your dependencies
+
 ## Scripts
 ```
 npm i
