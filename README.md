@@ -12,7 +12,7 @@ Update your dependencies
 3. 'src/componnets/*' **except LayerView.js**
 4. configure redux 'src/store/index.js'
 5. **Add one route at a time in LayerView.js** (Add any missing depencencies)
-6. Add graphQil configuration 
+6. **optional** Add graphQil configuration (refer to ICDC for latest graphIQL https://github.com/CBIIT/bento-icdc-frontend/blob/development/src/components/graphql/GraphQLView.jsx)
 
 ## Scripts
 ```
